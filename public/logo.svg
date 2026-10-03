@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">نشان ارگابکر</title>
+  <desc id="desc">برگ و انجیر در قاب دایره‌ای</desc>
+  <circle cx="80" cy="80" r="74" fill="#5b1d23"/>
+  <path d="M80 115C47 107 36 80 42 49c30 3 49 21 38 66Z" fill="#c6a35a"/>
+  <path d="M78 112C89 77 102 53 126 39c-1 32-14 58-48 73Z" fill="#70833a"/>
+  <path d="M74 116c8-25 21-46 43-66" fill="none" stroke="#f8f4ec" stroke-width="5" stroke-linecap="round" opacity=".85"/>
+  <path d="M42 49c19 2 32 10 39 24" fill="none" stroke="#f8f4ec" stroke-width="4" stroke-linecap="round" opacity=".7"/>
+  <circle cx="70" cy="80" r="3" fill="#5b1d23"/><circle cx="81" cy="87" r="3" fill="#5b1d23"/><circle cx="61" cy="91" r="3" fill="#5b1d23"/>
+</svg>
